@@ -1,4 +1,4 @@
-# Terraform Zero to Hero course
+# This will make you Terraform expert in week
 
 ## Day 1: Getting Started with Terraform
 
